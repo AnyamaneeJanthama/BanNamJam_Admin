@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/631463024/lungban/static/css/main.d540bce7.css",
-    "main.js": "/631463024/lungban/static/js/main.d0bfcc09.js",
-    "static/js/787.c8265bdd.chunk.js": "/631463024/lungban/static/js/787.c8265bdd.chunk.js",
-    "index.html": "/631463024/lungban/index.html",
-    "main.d540bce7.css.map": "/631463024/lungban/static/css/main.d540bce7.css.map",
-    "main.d0bfcc09.js.map": "/631463024/lungban/static/js/main.d0bfcc09.js.map",
-    "787.c8265bdd.chunk.js.map": "/631463024/lungban/static/js/787.c8265bdd.chunk.js.map"
+    "main.css": "/BanNamJam_Admin/static/css/main.d540bce7.css",
+    "main.js": "/BanNamJam_Admin/static/js/main.8b088943.js",
+    "static/js/787.c8265bdd.chunk.js": "/BanNamJam_Admin/static/js/787.c8265bdd.chunk.js",
+    "index.html": "/BanNamJam_Admin/index.html",
+    "main.d540bce7.css.map": "/BanNamJam_Admin/static/css/main.d540bce7.css.map",
+    "main.8b088943.js.map": "/BanNamJam_Admin/static/js/main.8b088943.js.map",
+    "787.c8265bdd.chunk.js.map": "/BanNamJam_Admin/static/js/787.c8265bdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d540bce7.css",
-    "static/js/main.d0bfcc09.js"
+    "static/js/main.8b088943.js"
   ]
 }
