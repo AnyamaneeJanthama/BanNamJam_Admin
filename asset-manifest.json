@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BanNamJam_Admin/static/css/main.d540bce7.css",
-    "main.js": "/BanNamJam_Admin/static/js/main.142cbe05.js",
+    "main.js": "/BanNamJam_Admin/static/js/main.23756c0c.js",
     "static/js/787.c8265bdd.chunk.js": "/BanNamJam_Admin/static/js/787.c8265bdd.chunk.js",
     "index.html": "/BanNamJam_Admin/index.html",
     "main.d540bce7.css.map": "/BanNamJam_Admin/static/css/main.d540bce7.css.map",
-    "main.142cbe05.js.map": "/BanNamJam_Admin/static/js/main.142cbe05.js.map",
+    "main.23756c0c.js.map": "/BanNamJam_Admin/static/js/main.23756c0c.js.map",
     "787.c8265bdd.chunk.js.map": "/BanNamJam_Admin/static/js/787.c8265bdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d540bce7.css",
-    "static/js/main.142cbe05.js"
+    "static/js/main.23756c0c.js"
   ]
 }
